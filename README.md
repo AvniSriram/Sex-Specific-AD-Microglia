@@ -43,3 +43,13 @@ pandas
 numpy
 matplotlib
 seaborn
+```
+
+---
+
+## Reproducibility
+
+> [!NOTE]
+> All random sampling and cross-validation procedures use a fixed seed (`random_state = 42`).
+
+See the `code/` directory for the full suite of reproducible scripts.
