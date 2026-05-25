@@ -6,7 +6,7 @@ This folder contains the main analysis scripts used in the project. Both scripts
 
 ## Scripts
 
-### `microglia_morphology.py`
+### `microglia_morphology.ipynb`
 
 Performs the full microglial morphometry and machine learning pipeline, including:
 
@@ -21,7 +21,7 @@ Addresses **RQ1** and **RQ2**.
 
 ---
 
-### `behavioral_analysis.py`
+### `behavioral_analysis.ipynb`
 
 Performs the 5-choice serial reaction time task (5CSRTT) behavioral analysis, including:
 
@@ -36,7 +36,7 @@ Addresses **RQ3**.
 
 # Pipeline Overview
 
-## `microglia_morphology.py`
+## `microglia_morphology.ipynb`
 
 ### 1. Data Loading
 
@@ -107,7 +107,7 @@ Includes:
 
 ---
 
-## `behavioral_analysis.py`
+## `behavioral_analysis.ipynb`
 
 ### 1. Data Loading & Cleaning
 
